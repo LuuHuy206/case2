@@ -1,0 +1,15 @@
+# Node.js Backend
+api/node_modules/
+api/.env
+api/npm-debug.log*
+
+# Flutter Frontend
+TaskManager/build/
+TaskManager/.dart_tool/
+TaskManager/.flutter-plugins
+TaskManager/.flutter-plugins-dependencies
+TaskManager/.packages
+
+# Local helper scripts
+push_to_github.sh
+push_to_github.bat
